@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\ikinci deneme\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|c:\\users\\user\\ikinci deneme\\assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|C:\\Users\\user\\ikinci deneme\\assets\\melikesilah\\silahkod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|solutionrelative:assets\\melikesilah\\silahkod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|C:\\Users\\user\\ikinci deneme\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|C:\\Users\\user\\ikinci deneme\\assets\\scripts\\levelhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelhud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|C:\\Users\\user\\ikinci deneme\\assets\\addxpbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|solutionrelative:assets\\addxpbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|C:\\Users\\user\\ikinci deneme\\assets\\damagebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B3BDA8-EE7E-4502-8B6B-A3BF52996E47}|Assembly-CSharp.csproj|solutionrelative:assets\\damagebutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ikinci deneme\\Assets\\Scripts\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySlot.cs",
+              "ToolTip": "C:\\Users\\user\\ikinci deneme\\Assets\\Scripts\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySlot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T10:54:31.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SilahKod.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ikinci deneme\\Assets\\Melikesilah\\SilahKod.cs",
+              "RelativeDocumentMoniker": "Assets\\Melikesilah\\SilahKod.cs",
+              "ToolTip": "C:\\Users\\user\\ikinci deneme\\Assets\\Melikesilah\\SilahKod.cs",
+              "RelativeToolTip": "Assets\\Melikesilah\\SilahKod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T14:08:48.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddXPButton.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ikinci deneme\\Assets\\AddXPButton.cs",
+              "RelativeDocumentMoniker": "Assets\\AddXPButton.cs",
+              "ToolTip": "C:\\Users\\user\\ikinci deneme\\Assets\\AddXPButton.cs",
+              "RelativeToolTip": "Assets\\AddXPButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:26:35.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DamageButton.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ikinci deneme\\Assets\\DamageButton.cs",
+              "RelativeDocumentMoniker": "Assets\\DamageButton.cs",
+              "ToolTip": "C:\\Users\\user\\ikinci deneme\\Assets\\DamageButton.cs",
+              "RelativeToolTip": "Assets\\DamageButton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T07:19:17.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LevelHUD.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ikinci deneme\\Assets\\Scripts\\LevelHUD.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelHUD.cs",
+              "ToolTip": "C:\\Users\\user\\ikinci deneme\\Assets\\Scripts\\LevelHUD.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelHUD.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwE4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-17T11:36:56.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\user\\ikinci deneme\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\user\\ikinci deneme\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAqwB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T15:58:24.964Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
